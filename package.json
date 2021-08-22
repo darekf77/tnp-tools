@@ -27,7 +27,7 @@
     "private": false,
     "main": "index.js"
   },
-  "lastBuildTagHash": "68cb19045c4c4e0c6f2b6c20f55dfc5da21ccb97",
+  "lastBuildTagHash": "3f7627ac418f3a454dc62abd2b7bfcd426fdcd14",
   "name": "tnp-tools",
   "version": "0.0.40",
   "license": "MIT",
@@ -240,7 +240,7 @@
     "tnp-db": "~0.0.31",
     "tnp-helpers": "~0.0.59",
     "tnp-models": "~0.0.30",
-    "tnp-tools": "~0.0.39",
+    "tnp-tools": "~0.0.40",
     "tnp-ui": "~0.0.26",
     "ts-loader": "7.0.4",
     "ts-node": "8.3.0",
