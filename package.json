@@ -7,7 +7,7 @@
     "useFramework": false,
     "type": "isomorphic-lib",
     "required": [],
-    "version": "v2",
+    "version": "v3",
     "overrided": {
       "ignoreDepsPattern": [],
       "includeAsDev": "*",
@@ -32,7 +32,6 @@
   "name": "tnp-tools",
   "version": "0.0.46",
   "license": "MIT",
-  "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "@angular-devkit/build-angular": "0.901.3",
@@ -259,8 +258,5 @@
     "webpack-cli": "3.3.11",
     "zone.js": "0.10.2"
   },
-  "private": false,
-  "recreatedFrom": {
-    "tnp.json": true
-  }
+  "private": false
 }
