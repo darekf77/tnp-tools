@@ -1,33 +1,4 @@
 {
-  "tnp": {
-    "resources": [
-      "README.md"
-    ],
-    "isCoreProject": false,
-    "useFramework": false,
-    "type": "isomorphic-lib",
-    "required": [],
-    "version": "v3",
-    "overrided": {
-      "ignoreDepsPattern": [],
-      "includeAsDev": "*",
-      "includeOnly": [],
-      "dependencies": {},
-      "linkedFolders": []
-    },
-    "linkedProjects": [],
-    "libReleaseOptions": {
-      "nodts": false,
-      "obscure": false,
-      "ugly": false
-    },
-    "isGenerated": false,
-    "requiredServers": [],
-    "license": "MIT",
-    "private": false,
-    "main": "index.js",
-    "workerPlugins": {}
-  },
   "lastBuildTagHash": "cc0f29285b5805b6be931621aee031492af366a3",
   "name": "tnp-tools",
   "version": "0.0.46",
@@ -258,5 +229,6 @@
     "webpack-cli": "3.3.11",
     "zone.js": "0.10.2"
   },
-  "private": false
+  "private": false,
+  "main": "index.js"
 }
