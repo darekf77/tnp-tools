@@ -11,10 +11,10 @@ import { diffChars } from 'diff';
 import * as fuzzy from 'fuzzy';
 
 // anuglar
-import { Observable } from 'rxjs/Observable';
-import { Subject } from 'rxjs/Subject';
-import { BehaviorSubject } from 'rxjs/BehaviorSubject';
-import { Subscription } from 'rxjs/Subscription';
+import { Observable } from 'rxjs';
+import { Subject } from 'rxjs';
+import { BehaviorSubject } from 'rxjs';
+import { Subscription } from 'rxjs';
 import {
   ViewChild, ViewContainerRef, OnDestroy,
   OnInit, Component, Input, AfterViewInit,
