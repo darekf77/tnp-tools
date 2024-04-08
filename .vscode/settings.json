@@ -16,5 +16,10 @@
   "eslint.enable": false,
   "tslint.enable": false,
   "typescript.tsdk": "node_modules/typescript/lib",
-  "files.exclude": {}
+  "files.exclude": {},
+  "search.exclude": {
+    "docs": true,
+    "projects": true,
+    "bin": true
+  }
 }
