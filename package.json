@@ -1,34 +1,6 @@
 {
   "tnp": {
-    "resources": [],
-    "overrided": {
-      "linkedFolders": [],
-      "ignoreDepsPattern": [],
-      "npmFixes": [],
-      "includeAsDev": [],
-      "includeOnly": [],
-      "dependencies": {}
-    },
-    "smartContainerBuildTarget": "",
-    "linkedRepos": [],
-    "libReleaseOptions": {
-      "cliBuildNoDts": false,
-      "cliBuildObscure": false,
-      "cliBuildUglify": false,
-      "cliBuildIncludeNodeModules": false
-    },
-    "smartContainerTarget": "",
-    "type": "isomorphic-lib",
-    "isCoreProject": false,
-    "useFramework": false,
-    "required": [],
-    "version": "v3",
-    "isGenerated": false,
-    "requiredServers": [],
-    "license": "MIT",
-    "private": false,
-    "main": "index.js",
-    "workerPlugins": {}
+    "resources": []
   },
   "lastBuildTagHash": "3865977329e34479ee1c01cbc2e08bef9f62f0a5",
   "name": "tnp-tools",
