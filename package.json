@@ -4,7 +4,7 @@
   },
   "lastBuildTagHash": "3865977329e34479ee1c01cbc2e08bef9f62f0a5",
   "name": "tnp-tools",
-  "version": "0.0.60",
+  "version": "0.0.61",
   "license": "MIT",
   "dependencies": {
     "@angular-devkit/build-angular": "~13.3.9",
